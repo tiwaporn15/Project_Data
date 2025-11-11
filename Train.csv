@@ -1,0 +1,191 @@
+Column 1,stationId,name,nameEng,geoLat,geoLng,lineName,lineNameEng,lineColorHex,lineServiceName
+1,A1,สุวรรณภูมิ,Suvamabhumi,13.69843046,100.7522222,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+2,A2,ลาดกระบัง,Lat Krabang,13.7276,100.7486,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+3,A3,บ้านทับช้าง,Ban Thap Chang,13.73281412,100.6913183,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+4,A4,หัวหมาก,Hua Mak,13.753338,100.636,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+5,A5,รามคำแหง,Ramkhamhaeng,13.74303274,100.6001506,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+6,A6,มักกะสัน,Makkasan,13.75118824,100.5607539,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+7,A7,ราชปรารภ,Ratchaprarop,13.75519935,100.5421223,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+8,A8,พญาไท,Phaya Thai,13.7567669,100.5348418,แอร์พอร์ต เรล ลิงก์,Airport Rail Link,#0332F8,AIRPORTLINK
+9,N1,ราชเทวี,Ratchathewi,13.75224802,100.5315666,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+10,N2,พญาไท,Phaya Thai,13.75674563,100.533654,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+11,N3,อนุสาวรีย์ชัยสมรภูมิ,Victory Monument,13.76293888,100.5371172,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+12,N4,สนามเป้า,Sanam Pao,13.7728504,100.5420494,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+13,N5,อารีย์,Ari,13.78030187,100.5446113,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+14,N7,สะพานควาย,Saphan Khwai,13.7938809,100.5497631,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+15,N8,หมอชิต,Mo Chit,13.80250429,100.5538203,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+16,N9,ห้าเเยกลาดพร้าว,Ha Yaek Lat Phrao,13.81660668,100.5618534,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+17,N10,พหลโยธิน 24,Phahon Yothin 24,13.82426961,100.5664604,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+18,N11,รัชโยธิน,Ratchayothin,13.83017496,100.5698015,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+19,N12,เสนานิคม,Sena Nikhom,13.83659969,100.573568,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+20,N13,มหาวิทยาลัยเกษตรศาสตร์,Kasetsart University,13.8426107,100.5771534,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+21,N14,กรมป่าไม้,Royal Forest Department,13.8506168,100.5817851,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+22,N15,บางบัว,Bang Bua,13.85625441,100.5851914,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+23,N16,กรมทหารราบที่ 11,11th Infantry Regiment,13.86769465,100.5919722,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+24,N17,วัดพระศรีมหาธาตุ,Wat Phra Sri Mahathat,13.87087489,100.5936274,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+25,N18,พหลโยธิน 59,Phahon Yothin 59,13.88431057,100.6018657,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+26,N19,สายหยุด,Sai Yud,13.88871278,100.604292,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+27,N20,สะพานใหม่,Saphan Mai,13.89695699,100.6090596,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+28,N21,โรงพยาบาลภูมิพลอดุลยเดช,Bhumibol Adulyadej Hospital,13.91039299,100.6174048,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+29,N22,พิพิธภัณฑ์กองทัพอากาศ,Royal Thai Air Force Museum,13.91812203,100.6217686,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+30,N23,แยก คปอ.,Yaek Kor Por Aor,13.92252884,100.6245,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+31,N24,คูคต,Khu Khot,13.93243649,100.6466589,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+32,E1,ชิดลม,Chit Lom,13.74421796,100.5430461,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+33,E2,เพลินจิต,Phioen Chit,13.74312785,100.5489203,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+34,E3,นานา,Nana,13.74065792,100.5553955,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+35,E4,อโศก,Asok,13.7372602,100.5603185,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+36,E5,พร้อมพงษ์,Phrom Phong,13.73051778,100.5697201,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+37,E6,ทองหล่อ,Thong Lo,13.72431807,100.5784166,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+38,E7,เอกมัย,EkKamai,13.71968113,100.5850896,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+39,E8,พระโขนง,Phra Khanong,13.7152675,100.5912491,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+40,E9,อ่อนนุช,On Nut,13.70580191,100.6010062,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+41,E10,บางจาก,Bang Chak,13.69690939,100.6053117,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+42,E11,ปุณณวิถี,Punnawithi,13.68957971,100.6089763,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+43,E12,อุดมสุข,Udom Suk,13.68025231,100.6097074,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+44,E13,บางนา,Bang Na,13.6682918,100.6046596,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+45,E14,เเบริ่ง,Bearing,13.66140421,100.601777,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+46,E15,สำโรง,Samrong,13.64642428,100.5956389,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+47,E16,ปู่เจ้า,Pu Chao,13.63736637,100.5919541,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+48,E17,ช้างเอราวัณ,Chang Erawan,13.6217474,100.5901232,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+49,E18,โรงเรียนนายเรือ,Royal Thai Naval Academy,13.60857122,100.5949813,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+50,E19,ปากน้ำ,Pak Nam,13.60219358,100.5971081,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+51,E20,ศรีนครินทร์,Srinagarindra,13.59221456,100.6089382,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+52,E21,เเพรกษา,Phraek Sa,13.58450128,100.6080163,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+53,E22,สายลวด,Sai Luat,13.57781464,100.6053706,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+54,E23,เคหะฯ,Kheha,13.56804331,100.6077132,สายสุขุมวิท,Sukhumvit Line,#92D04E,BTS
+55,CEN,สยาม,siam,13.74585302,100.5340946,CEN,CEN,,BTS
+56,W1,สนามกีฬาเเห่งชาติ,National Stadium,13.746671,100.5290515,สายสีลม,Silom Line,#007D38,BTS
+57,S1,ราชดำริ,Ratchadamri,13.73965387,100.539528,สายสีลม,Silom Line,#007D38,BTS
+58,S2,ศาลาเเดง,Sala Daeng,13.72868737,100.5341062,สายสีลม,Silom Line,#007D38,BTS
+59,S3,ช่องนนทรี,Chong Nonsi,13.72410647,100.5294325,สายสีลม,Silom Line,#007D38,BTS
+60,S4,เซนต์หลุยส์,Saint Louis,13.72130591,100.5267924,สายสีลม,Silom Line,#007D38,BTS
+61,S5,สุรศักดิ์,Surasak,13.71953713,100.5214515,สายสีลม,Silom Line,#007D38,BTS
+62,S6,สะพานตากสิน,Saphan Taksin,13.71900288,100.5139751,สายสีลม,Silom Line,#007D38,BTS
+63,S7,กรุงธนบุรี,Krung Thon Buri,13.72111598,100.5027129,สายสีลม,Silom Line,#007D38,BTS
+64,S8,วงเวียนใหญ่,Wongwian Yai,13.72134267,100.4951376,สายสีลม,Silom Line,#007D38,BTS
+65,S9,โพธิ์นิมิตร,Pho Nimit,13.71935806,100.4858707,สายสีลม,Silom Line,#007D38,BTS
+66,S10,ตลาดพลู,Talat Phlu,13.71440046,100.4768036,สายสีลม,Silom Line,#007D38,BTS
+67,S11,วุฒากาศ,Wutthakat,13.71327845,100.4687971,สายสีลม,Silom Line,#007D38,BTS
+68,S12,บางหว้า,Bang Wa,13.72072893,100.4578046,สายสีลม,Silom Line,#007D38,BTS
+69,G1,กรุงธนบุรี,Krung Thon Buri,13.72119394,100.50375,สายสีทอง,Gold Line,#BA9006,BTS
+70,G2,เจริญนคร,Charoen Nakhon,13.72667167,100.5090773,สายสีทอง,Gold Line,#BA9006,BTS
+71,G3,คลองสาน,Khlong San,13.73045635,100.5076052,สายสีทอง,Gold Line,#BA9006,BTS
+72,BL01,ท่าพระ,Tha Phra,13.72972298,100.4742004,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+73,BL02,จรัญฯ 13,Charan 13,13.73973006,100.4707531,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+74,BL03,ไฟฉาย,Fai Chai,13.7551421,100.4692145,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+75,BL04,บางขุนนนท์,Bang Khun Non,13.76321732,100.473271,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+76,BL05,บางยี่ขัน,Bang Yi Khan,13.77754696,100.4852603,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+77,BL06,สิรินธร,Sirindhorn,13.7841372,100.4934846,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+78,BL07,บางพลัด,Bang Phlat,13.7925576,100.5049777,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+79,BL08,บางอ้อ,Bang O,13.79885702,100.5097022,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+80,BL09,บางโพ,Bang Pho,13.80646196,100.5210555,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+81,BL10,เตาปูน,Tao Poon,13.80625118,100.5308043,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+82,BL11,บางซื่อ,Bang Sue,13.80310836,100.539162,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+83,BL12,กำแพงเพรช,Kamphaeng Phet,13.79816407,100.5475586,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+84,BL13,สวนจตุจักร,Chatuchak Park,13.8026342,100.5537895,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+85,BL14,พหลโยธิน,Phahon Yothin,13.8143754,100.5601246,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+86,BL15,ลาดพร้าว,Lat Phrao,13.80619189,100.5735777,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+87,BL16,รัชดาภิเษก,Ratchadaphisek,13.79930188,100.5745811,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+88,BL17,สุทธิสาร,Sutthisan,13.78983174,100.5742095,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+89,BL18,ห้วยขวาง,Huai Khwang,13.77860928,100.5736137,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+90,BL19,ศูนย์วัฒนธรรมแห่งประเทศไทย,Thailand Cultural Centre,13.7663154,100.570266,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+91,BL20,พระราม 9,Phra Ram 9,13.75799946,100.5655785,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+92,BL21,เพรชบุรี,Phetchaburi,13.74882512,100.5631002,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+93,BL22,สุขุมวิท,Sukhumvit,13.73869105,100.5614679,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+94,BL23,ศูนย์การประชุมแห่งชาติสิริกิติ์,Queen Sirikit National Convention Center,13.7232794,100.5600728,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+95,BL24,คลองเตย,Khlong Toei,13.72239558,100.5538733,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+96,BL25,ลุมพินี,Lumphini,13.72595681,100.5457015,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+97,BL26,สีลม,Si Lom,13.72942224,100.5365606,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+98,BL27,สามย่าน,Sam Yan,13.73239446,100.5300603,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+99,BL28,หัวลำโพง,Hua Lamphong,13.73795664,100.517242,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+100,BL29,วัดมังกร,Wat Mangkon,13.74202499,100.5103155,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+101,BL30,สามยอด,Sam Yot,13.74740456,100.5022196,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+102,BL31,สนามไชย,Sanam Chai,13.74399475,100.4946343,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+103,BL32,อิสรภาพ,Itsaraphap,13.73850418,100.4852127,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+104,BL33,บางไผ่,Bang Phai,13.7246988,100.4652391,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+105,BL34,ท่าเรือบางหว้า,Bang Wa Pier,13.72055298,100.4571986,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+106,BL35,เพรชเกษม 48,Phetkasem 48,13.7156435,100.4456228,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+107,BL36,ภาษีเจริญ,Phasi Charoen,13.7128545,100.4342302,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+108,BL37,บางแค,Bang Khae,13.71191423,100.4223661,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+109,BL38,หลักสอง,Lak Song,13.7110012,100.4100062,สายสีน้ำเงิน,Blue Line,#7D80F3,MRT
+110,PP01,คลองบางไผ่,Khlong Bang Phai,13.89230122,100.4082347,สายสีม่วง,Purple Line,#6D2EA0,MRT
+111,PP02,ตลาดบางใหญ่,Talad Bang Yai,13.88108225,100.4092352,สายสีม่วง,Purple Line,#6D2EA0,MRT
+112,PP03,สามแยกบางใหญ่,Sam Yaek Bang Yai,13.87462472,100.4194453,สายสีม่วง,Purple Line,#6D2EA0,MRT
+113,PP04,บางพลู,Bang Phlu,13.87564274,100.4339347,สายสีม่วง,Purple Line,#6D2EA0,MRT
+114,PP05,บางรักใหญ่,Bang Rak Yai,13.87663522,100.4449085,สายสีม่วง,Purple Line,#6D2EA0,MRT
+115,PP06,บางรักน้อยท่าอิฐ,Bang Rak Noi Tha It,13.87470819,100.4561789,สายสีม่วง,Purple Line,#6D2EA0,MRT
+116,PP07,ไทรม้า,Sai Ma,13.87058397,100.4666669,สายสีม่วง,Purple Line,#6D2EA0,MRT
+117,PP08,สะพานพระนั่งเกล้า,Phra Nang Klao Bridge,13.87039343,100.480429,สายสีม่วง,Purple Line,#6D2EA0,MRT
+118,PP09,แยกนนทบุรี 1,Yaek Nonthaburi 1,13.86597098,100.4948046,สายสีม่วง,Purple Line,#6D2EA0,MRT
+119,PP10,บางกระสอ,Bang Krasor,13.86188105,100.5042774,สายสีม่วง,Purple Line,#6D2EA0,MRT
+120,PP11,ศูนย์ราชการนนทบุรี,Nonthaburi Civic Center,13.86014674,100.5132451,สายสีม่วง,Purple Line,#6D2EA0,MRT
+121,PP12,กระทรวงสาธารณสุข,Ministry of Public Health,13.84871543,100.5147881,สายสีม่วง,Purple Line,#6D2EA0,MRT
+122,PP13,แยกติวานนท์,Yaek Tiwanon,13.83957024,100.5149505,สายสีม่วง,Purple Line,#6D2EA0,MRT
+123,PP14,วงศ์สว่าง,Wong Sawang,13.83036459,100.5266511,สายสีม่วง,Purple Line,#6D2EA0,MRT
+,PP15,บางซ่อน,Bang Son,13.82066994,100.5327073,สายสีม่วง,Purple Line,#6D2EA0,MRT
+,PP16,เตาปูน,Tao Poon,13.80649097,100.5306827,สายสีม่วง,Purple Line,#6D2EA0,MRT
+,PK01,ศูนย์ราชการนนทบุรี,Nonthaburi Civic Center,13.833333,100.483333,สายสีชมพู,Pink line,,BTS
+,PK02,แคราย,Khae rai,13.864,100.512,สายสีชมพู,Pink line,,BTS
+,PK03,สนามบินน้ำ,Sanambin Nam,13.8741,100.5163,สายสีชมพู,Pink line,,BTS
+,PK04,สามัคคี,Samakkhi,13.8894,100.5105,สายสีชมพู,Pink line,,BTS
+,PK05,กรมชลประทาน,Royal Irrigation Department,13.8986,100.5971,สายสีชมพู,Pink line,,BTS
+,PK06,แยกปากเกร็ด,Yaek Pak Kret,13.9063,100.5054,สายสีชมพู,Pink line,,BTS
+,PK07,เลี่ยงเมืองปากเกร็ด,Pak kret Bypass,13.9065,100.5155,สายสีชมพู,Pink line,,BTS
+,PK08,แจ้งวัฒนะ-ปากเกร็ด 28,Chaeng Watthana-Pak kret 28,13.9042,100.5292,สายสีชมพู,Pink line,,BTS
+,PK09,ศรีรัช,Si rat,13.9006,100.54,สายสีชมพู,Pink line,,BTS
+,PK10,เมืองทองธานี,Muang Thong Thani,13.8974,100.5484,สายสีชมพู,Pink line,,BTS
+,PK11,แจ้งวัฒนะ 14,Chaeng Watthana 14,,,สายสีชมพู,Pink line,,BTS
+,PK12,ศูนย์ราชการเฉลิมพระเกียรติ,Government Complex,13.95,100.6,สายสีชมพู,Pink line,,BTS
+,PK13,โทรคมนาคมแห่งชาติ,National Stadium,,,สายสีชมพู,Pink line,,BTS
+,PK14,หลักสี่,Lak si,13.884348,100.580793,สายสีชมพู,Pink line,,BTS
+,PK15,ราชภัฏพระนคร,Rajabhat Phranakhon,,,สายสีชมพู,Pink line,,BTS
+,PK16,วัดพระศรีมหาธาตุ,Wat Phra Sri Mahathat,13.8752,100.5967,สายสีชมพู,Pink line,,BTS
+,PK17,รามอินทรา 3,Ram Inthra 3,13.98,100.627,สายสีชมพู,Pink line,,BTS
+,PK18,ลาดปลาเค้า,Lat Pla Khao,13.97,100.618,สายสีชมพู,Pink line,,BTS
+,PK19,รามอินทรา กม.4,Ram Inthra Kor Mor 4,13.827,100.612,สายสีชมพู,Pink line,,BTS
+,PK20,มัยลาภ,Maiyalap,13.827,100.621,สายสีชมพู,Pink line,,BTS
+,PK21,วัชรพล,Vacharaphol,13.827,100.63,สายสีชมพู,Pink line,,BTS
+,PK22,รามอินทรา กม.6,Ram Inthra Kor Mor 6,13.827,100.639,สายสีชมพู,Pink line,,BTS
+,PK23,คู้บอน,Khu Bon,13.827,100.648,สายสีชมพู,Pink line,,BTS
+,PK24,รามอินทรา กม.9,Ram Intra Kor Mor 9,13.827,100.657,สายสีชมพู,Pink line,,BTS
+,PK25,วงแหวนรามอินทรา,Outer Ring Road-Ram Inthra,13.827,100.666,สายสีชมพู,Pink line,,BTS
+,PK26,นพรัตน์,Nopparat,13.827,100.675,สายสีชมพู,Pink line,,BTS
+,PK27,บางชัน,Bang Chan,13.827,100.684,สายสีชมพู,Pink line,,BTS
+,PK28,เศรษฐบุตรบำเพ็ญ,Setthabutbamphen,13.827,100.693,สายสีชมพู,Pink line,,BTS
+,PK29,ตลาดมีนบุรี,Min Buri Market,13.4845,100.4332,สายสีชมพู,Pink line,,BTS
+,PK30,มีนบุรี,Min Buri,13.4831,100.4358,สายสีชมพู,Pink line,,BTS
+,MT01,สถานีอิมแพ็ค เมืองทองธานี,Impact Muang Thong Thani,,,สายสีชมพู,Pink line,,BTS
+,MT02,สถานีทะเลสาบเมืองทองธานี,Lake Muang Thong Thani,,,สายสีชมพู,Pink line,,BTS
+,YL01,ลาดพร้าว,Lat Phrao,13.7915,100.5828,สายสีเหลือง,Yellow Line,,MRT
+,YL02,ภาวนา,Phawana,13.8002,100.5841,สายสีเหลือง,Yellow Line,,MRT
+,YL03,โชคชัย 4,Chok Chai 4,13.7945,100.5943,สายสีเหลือง,Yellow Line,,MRT
+,YL04,ลาดพร้าว 71,Lat Phrao 71,13.7872,100.6074,สายสีเหลือง,Yellow Line,,MRT
+,YL05,ลาดพร้าว 83,Lat Phrao 83,13.7837,100.6136,สายสีเหลือง,Yellow Line,,MRT
+,YL06,มหาดไทย,Mathat Thai,13.7784,100.6231,สายสีเหลือง,Yellow Line,,MRT
+,YL07,ลาดพร้าว 101,Lat Phrao 101,13.7747,100.6298,สายสีเหลือง,Yellow Line,,MRT
+,YL08,บางกะปิ,Bang Kapi,13.7692,100.6396,สายสีเหลือง,Yellow Line,,MRT
+,YL09,แยกลำสาลี,Yaek Lam Sali,13.7617,100.6455,สายสีเหลือง,Yellow Line,,MRT
+,YL10,ศรีกรีฑา,Si Kritha,13.7503,100.6447,สายสีเหลือง,Yellow Line,,MRT
+,YL11,หัวหมาก,Hua Mak,,,สายสีเหลือง,Yellow Line,,MRT
+,YL12,กลันตัน,Kalantan,13.7253,100.6418,สายสีเหลือง,Yellow Line,,MRT
+,YL13,ศรีนุช,Si Nut,13.711,100.6441,สายสีเหลือง,Yellow Line,,MRT
+,YL14,ศรีนครินทร์ 38,Srinagarindra 38,13.701,100.6465,สายสีเหลือง,Yellow Line,,MRT
+,YL15,สวนหลวง ร.9,Suan Luang Rama IX  ,13.6908,100.647,สายสีเหลือง,Yellow Line,,MRT
+,YL16,ศรีอุดม,Si Udom,13.6766,100.6461,สายสีเหลือง,Yellow Line,,MRT
+,YL17,ศรีเอี่ยม,Si Iam,13.6677,100.6451,สายสีเหลือง,Yellow Line,,MRT
+,YL18,ศรีลาซาล,Si La Salle,13.6549,100.6421,สายสีเหลือง,Yellow Line,,MRT
+,YL19,ศรีแบริ่ง,Si Bearing,13.6435,100.6362,สายสีเหลือง,Yellow Line,,MRT
+,YL20,ศรีด่าน,Si Dan,13.6331,100.6301,สายสีเหลือง,Yellow Line,,MRT
+,YL21,ศรีเทพา,Si Thepha,13.6299,100.6227,สายสีเหลือง,Yellow Line,,MRT
+,YL22,ทิพวัล,Thipphawan	,13.6368,100.6099,สายสีเหลือง,Yellow Line,,MRT
+,YL23,สำโรง,Samrong,13.647363,100.596153,สายสีเหลือง,Yellow Line,,MRT
+,RN01,กรุงเทพอภิวัฒน์,Krung Thep Aphiwat,13.4818,100.323,สายสีแดง,Red Line,,SRT
+,RN02,จตุจักร,Chatuchak,,,สายสีแดง,Red Line,,SRT
+,RN03,วัดเสมียนนารี,Wat Samian Nari,13.5029,100.3327,สายสีแดง,Red Line,,SRT
+,RN04,บางเขน,Bang Khen,13.8469,100.5673,สายสีแดง,Red Line,,SRT
+,RN05,ทุ่งสองห้อง,Thung Song Hong,13.8601,100.5674,สายสีแดง,Red Line,,SRT
+,RN06,หลักสี่,Lak Si,13.8843,100.5808,สายสีแดง,Red Line,,SRT
+,RN07,การเคหะ,Kan Kheha,,,สายสีแดง,Red Line,,SRT
+,RN08,ดอนเมือง,Don Mueang,13.9197,100.6011,สายสีแดง,Red Line,,SRT
+,RN09,หลักหก (ม.รังสิต),Lak Hok (Rangsit U.),13.5956,100.6054,สายสีแดง,Red Line,,SRT
+,RN10,รังสิต,Rangsit,13.9905,100.6022,สายสีแดง,Red Line,,SRT
