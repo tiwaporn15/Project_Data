@@ -107,7 +107,6 @@ input_data.update({
     'district': in_district,
     
     # ปัจจัยจาก col2
-    'unemployment_count_k': in_unemployment,
     'policy_rate': in_policy_rate,
     
     # === (ส่วนที่แก้ไข) อัปเดต Facility ทั้ง 12 อย่างจาก User ===
